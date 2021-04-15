@@ -1,0 +1,41 @@
+body {
+    background-color: #ccc;
+    margin: 0;
+  }
+  .pagebox {
+    background-color: #fff;
+    width:940px;
+    margin: 0 auto;
+    padding: 40px;
+  }
+p {
+    color: black;
+}
+.highlight {
+    color: orange;
+}
+.whatevercolor {
+    color: green;
+}
+#bottom {
+    color:red;
+  }
+h1 {
+    color: red;
+}
+.siteheader {
+    background-color: #f0f0f0;
+    margin-bottom: 30px;
+    width: 100%;
+    min-height: 100px;
+  }
+  .maincontent {
+    background-color: #eddcba;
+    width: 100%;
+  }
+  .sitefooter {
+    background-color: #94cdd1;
+    margin-top: 30px;
+    width: 100%;
+    min-height: 100px;
+  }
